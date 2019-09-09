@@ -1,0 +1,5 @@
+{
+  "server": "142.44.161.123",
+  "port": "10901",
+  "cafile": "lsc_test.pem"
+}

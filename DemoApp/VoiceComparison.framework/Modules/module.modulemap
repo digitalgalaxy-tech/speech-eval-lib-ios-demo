@@ -1,0 +1,6 @@
+framework module VoiceComparison {
+  umbrella header "VoiceComparison.h"
+
+  export *
+  module * { export * }
+}
